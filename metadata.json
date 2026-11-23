@@ -1,0 +1,8 @@
+{
+  "name": "HYBE India Gen Z Insight Snapshot",
+  "description": "An interactive data-driven report on Indian K-pop fan behavior and engagement opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
